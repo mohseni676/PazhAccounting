@@ -35,7 +35,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(837, 293);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frm_main";
+            this.RightToLeftLayout = true;
             this.Text = "frm_main";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frm_main_FormClosed);
             this.ResumeLayout(false);

@@ -10,3 +10,15 @@ C:\Users\Ali Mohseni\Source\Repos\LinqTest\PazhHesabdari\PazhHesabdari\obj\Debug
 C:\Users\Ali Mohseni\Source\Repos\LinqTest\PazhHesabdari\PazhHesabdari\obj\Debug\PazhHesabdari.csproj.GenerateResource.Cache
 C:\Users\Ali Mohseni\Source\Repos\LinqTest\PazhHesabdari\PazhHesabdari\obj\Debug\PazhHesabdari.exe
 C:\Users\Ali Mohseni\Source\Repos\LinqTest\PazhHesabdari\PazhHesabdari\obj\Debug\PazhHesabdari.pdb
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\bin\Debug\DB.mdf
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\bin\Debug\DB_log.ldf
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\bin\Debug\PazhHesabdari.exe.config
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\bin\Debug\PazhHesabdari.exe
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\bin\Debug\PazhHesabdari.pdb
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.csprojResolveAssemblyReference.cache
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.forms.frm_main.resources
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.frm_login.resources
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.Properties.Resources.resources
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.csproj.GenerateResource.Cache
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.exe
+C:\Users\Ali Mohseni\Source\Repos\PazhAccounting\PazhHesabdari\obj\Debug\PazhHesabdari.pdb
